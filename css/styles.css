@@ -1,0 +1,15 @@
+
+.jumbotron {
+    background-color: #0055A9;
+    color: #fff;
+    /*padding: 200px 25px;*/
+    background-image: linear-gradient( rgba(23, 31, 39, 0.7), rgba(23, 31, 39, 0.7)), url(../img/default.jpg);
+    background-size: cover;
+    margin-bottom: 5px;
+    height: 800px;
+}
+
+.container-fluid {
+    padding: 0px;
+
+}
